@@ -1,0 +1,13 @@
+.navbar{
+    color: black;
+    background-color:white;
+    text-decoration: none;
+    display: inline-block;
+    height: 90px;
+    border: 2px solid blue;
+    width: 100%;
+    
+}
+.logo{
+    height: 2.0rem
+}
